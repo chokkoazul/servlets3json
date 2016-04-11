@@ -6,7 +6,7 @@ import javax.ejb.Singleton;
 public class NameStorageBean {
 
     // name field
-    private String name = "World";
+    private String name = "World1111";
     
     public String getName() {
         return name;
