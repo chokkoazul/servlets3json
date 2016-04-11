@@ -1,3 +1,10 @@
-# servlets3json
+# servlets3jsonC
+PROYECTO API REST
+TECNOLOGIAS UTILIZADAS:
 
-Proyecto maven de un servlet 3 con llamada post/json + filter
+	-MAVEN
+	-REST
+	-SERVLET3
+	-EJB3
+	-JQUERY/AJAX
+
